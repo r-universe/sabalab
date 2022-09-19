@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "diffEnrich",
+    "oncran": true
+  }
+]
